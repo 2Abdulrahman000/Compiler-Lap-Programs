@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650751768 source:e:\cs4\term 2\compiler\lap practices\check identifer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

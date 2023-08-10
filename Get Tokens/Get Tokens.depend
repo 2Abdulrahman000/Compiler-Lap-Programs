@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653060857 source:e:\cs4\term 2\compiler\new folder\get tokens\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+

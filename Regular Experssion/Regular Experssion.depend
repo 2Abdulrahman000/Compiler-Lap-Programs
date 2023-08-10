@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653242969 source:e:\cs4\term 2\compiler\lap programs\regular experssion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
